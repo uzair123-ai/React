@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.edit-container {
+    text-align: center;
+    background-color: silver;
+    border: 2px solid black;
+    padding: 10px;
+}
